@@ -5,9 +5,10 @@ const Content: React.FC = () => {
     <div id="content" style={{
       float: 'left',
       backgroundColor: 'cadetblue',
-      height: '100%',
-      width: '200px'
-    }}> </div >
+      height: '200px',
+      width: '82% '
+    }}>
+    </div >
   )
 }
 

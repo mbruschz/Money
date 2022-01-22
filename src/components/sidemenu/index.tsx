@@ -5,7 +5,7 @@ import { SideMenuStyled } from './style'
 const SideMenu: React.FC = () => {
   return (
     <aside id="sideMenu" className="menu" style={{
-      width: '100px',
+      width: '9.375rem',
       float: 'left'
     }}>
       <p className="menu-label">
